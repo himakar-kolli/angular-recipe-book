@@ -13,6 +13,9 @@
       true,
       "rxjs/Rx"
     ],
+    "rxjs-no-internal": {
+      "severity": "error"
+    },
     "interface-name": false,
     "max-classes-per-file": false,
     "max-line-length": [
